@@ -2,7 +2,6 @@
 name: ralph-copywriter
 description: Use this skill when the user asks to "analyze my content", "learn my writing style", "research competitors", "find content angles", "improve my blog", "write like me", "embody my brand voice", or mentions content strategy, voice analysis, competitive research, or iterative content improvement.
 version: 2.0.0
-license: MIT
 ---
 
 # Ralph the Copywriter - Quality Through Iteration
@@ -33,33 +32,33 @@ Ralph doesn't just write content. Ralph:
 │   └────┬─────┘                                                  │
 │        ▼                                                        │
 │   ┌──────────┐                                                  │
-│   │  LEARN   │ → Extract voice, style, patterns, what works    │
+│   │  LEARN   │ → Extract voice, style, patterns, what works     │
 │   └────┬─────┘                                                  │
 │        ▼                                                        │
 │   ┌──────────┐                                                  │
-│   │ RESEARCH │ → Deep dive: data, trends, unique angles        │
+│   │ RESEARCH │ → Deep dive: data, trends, unique angles         │
 │   └────┬─────┘                                                  │
 │        ▼                                                        │
 │   ┌──────────┐                                                  │
-│   │  IDEATE  │ → Find the angle nobody else is taking          │
+│   │  IDEATE  │ → Find the angle nobody else is taking           │
 │   └────┬─────┘                                                  │
 │        ▼                                                        │
 │   ┌──────────┐                                                  │
-│   │  WRITE   │ → Draft in YOUR voice with YOUR patterns        │
+│   │  WRITE   │ → Draft in YOUR voice with YOUR patterns         │
 │   └────┬─────┘                                                  │
 │        ▼                                                        │
 │   ┌──────────┐                                                  │
-│   │ CRITIQUE │ → "Would the founder actually publish this?"    │
+│   │ CRITIQUE │ → "Would the founder actually publish this?"     │
 │   └────┬─────┘                                                  │
 │        │                                                        │
-│        ▼  No ──────────────────────────────┐                   │
+│        ▼  No ──────────────────────────────┐                    │
 │   ┌──────────┐                              │                   │
 │   │ ITERATE  │ ← Improve based on critique ◄┘                   │
 │   └────┬─────┘                                                  │
 │        │                                                        │
 │        ▼  Yes                                                   │
 │   ┌──────────┐                                                  │
-│   │ PUBLISH  │ → Only when it meets the quality bar            │
+│   │ PUBLISH  │ → Only when it meets the quality bar             │
 │   └──────────┘                                                  │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
@@ -286,27 +285,6 @@ Ralph will:
 7. Only mark complete when quality bar met
 ```
 
-## The Difference
-
-| Standard AI Writing | Ralph Quality Loop |
-|--------------------|-------------------|
-| Generate immediately | Research first |
-| Generic voice | Embodies YOUR voice |
-| Obvious angles | Finds unique angles |
-| Draft 1 is final | Iterates until good |
-| Quantity focus | Quality focus |
-| "Sounds like AI" | "Sounds like the founder" |
-| Forgettable | Worth sharing |
-
-## When to Use
-
-- "Analyze my existing content and learn my style"
-- "Research this topic deeply before writing"
-- "Find a unique angle for this blog post"
-- "Write this in my voice, not generic AI voice"
-- "This draft isn't good enough, iterate on it"
-- "Review this against my quality bar"
-- "What would make this content actually shareable?"
 
 ## The Promise
 
