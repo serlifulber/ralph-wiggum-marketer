@@ -11,7 +11,7 @@
   "plugins": [
     {
       "name": "ralph-wiggum-marketer",
-      "source": ".",
+      "source": "./",
       "description": "Quality-focused AI copywriter using the Ralph Wiggum pattern",
       "version": "1.0.0",
       "author": {
