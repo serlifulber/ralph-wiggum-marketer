@@ -237,7 +237,7 @@ Key principles:
 ## Credits
 
 - Original Ralph concept: [@GeoffreyHuntley](https://ghuntley.com/ralph/)
-- Official Ralph plugin: [claude-plugins-official](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/ralph-wiggum)
+- Official Ralph plugin: [claude-plugins-official](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/ralph-loop)
 - Video walkthrough: [@mattpocockuk](https://twitter.com/mattpocockuk)
 
 ## License
